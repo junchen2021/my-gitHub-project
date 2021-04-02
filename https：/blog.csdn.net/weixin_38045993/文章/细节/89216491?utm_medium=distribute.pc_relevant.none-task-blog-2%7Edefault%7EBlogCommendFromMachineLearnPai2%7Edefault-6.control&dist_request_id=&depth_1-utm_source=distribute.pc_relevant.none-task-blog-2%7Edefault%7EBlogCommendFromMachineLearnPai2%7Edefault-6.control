@@ -1,6 +1,0 @@
-
- <div id="drag">
-     <div class="drag_bg"></div>
-     <div class="drag_text slidetounlock" onselectstart="return false;" unselectable="on">
-       请按住滑块，拖动到最右边 </div>
-     <div class="handler handler_bg"></div>
